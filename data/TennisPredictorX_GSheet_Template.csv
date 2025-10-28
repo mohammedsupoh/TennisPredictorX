@@ -1,0 +1,6 @@
+match_date,tour,surface,player1,player2,elo_p1,elo_p2,rank_p1,rank_p2,h2h_p1,h2h_p2,form14_p1,form14_p2,odds_p1,odds_p2
+2025-10-30,ATP1000,Hard,Carlos Alcaraz,Daniil Medvedev,2050,2020,2,3,2,1,0.76,0.71,1.65,2.20
+2025-10-30,ATP1000,Hard,Jannik Sinner,Stefanos Tsitsipas,2040,1985,3,7,3,2,0.74,0.68,1.55,2.35
+2025-10-30,ATP500,Clay,Zverev,Ruud,2010,1970,5,8,2,3,0.72,0.70,1.80,2.00
+2025-10-30,ATP250,Grass,Hurkacz,De Minaur,1980,1960,9,11,1,2,0.70,0.69,1.95,1.95
+2025-10-30,ATP1000,Clay,Rublev,Tsitsipas,1995,1985,6,7,1,3,0.71,0.68,2.05,1.85
