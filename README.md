@@ -31,11 +31,11 @@ streamlit run app\streamlit_app.py
 
 ## Screenshots
 <p align="center">
-  <img src="docs/screenshots/home.png" alt="Home" width="640"/><br/>
+  <img src="docs/screenshots/home.png?v=20251029122220" alt="Home" width="640"/><br/>
   <em>Home screen</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/results.png" alt="Results" width="640"/><br/>
+  <img src="docs/screenshots/results.png?v=20251029122220" alt="Results" width="640"/><br/>
   <em>Hybrid scoring results</em>
 </p>
