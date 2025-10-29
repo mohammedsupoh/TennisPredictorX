@@ -28,3 +28,14 @@ streamlit run app\streamlit_app.py
 
 ## Output Columns
 `p1_prob`, `p2_prob`, `pred_winner`, `confidence_band`
+
+## Screenshots
+<p align="center">
+  <img src="docs/screenshots/home.png" alt="Home" width="640"/><br/>
+  <em>Home screen</em>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/results.png" alt="Results" width="640"/><br/>
+  <em>Hybrid scoring results</em>
+</p>
